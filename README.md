@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 Hakkımda :
+👋 Merhaba, Ben ESRA<br>Yazılım dünyasında sadece kod yazmaya değil, teknolojiyle gerçek dünya problemlerini çözmeye odaklanmış bir yazılım geliştiricisiyim. Geniş bir yelpazede makine öğrenimi ve  derin öğrenmede çözümler üretirken, özellikle Full-Stack alanında uzmanlaşmayı hedefliyorum.<br><br>🚀 Hakkımda<br>💻 Full-Stack & Mimari: C#, Java ve React gibi teknolojileri kullanarak, REST API ve OOP prensiplerine uygun, sürdürülebilir uygulamalar geliştiriyorum.<br><br>🤖 Yapay Zeka & Görüntü İşleme: Derin öğrenme dünyasına olan ilgimi, 1D CNN modelleriyle veri sınıflandırma ve Araç Hasar Tespiti gibi görüntü işleme projeleriyle pratiğe döküyorum.<br><br>🔐 Güvenlik & Kriptoloji: Veri gizliliğine önem veriyor; Paillier kriptosistemi ve homomorfik şifreleme kullanarak güvenli oylama altyapıları tasarlıyorum.<br><br>🏆 Ar-Ge & İnovasyon: TÜBİTAK 2209-A tarafından desteklenen "Giyilebilir Teknolojide Otonom Sürüş" projem ile sürücü sağlığını IoT ve giyilebilir cihazlarla takip eden sistemler üzerine araştırma yürütüyorum.<br><br>🌿 IoT Çözümleri: Sensör verilerini anlamlı raporlara dönüştürerek Akıllı Sera gibi otomasyon odaklı projelerde yer alıyorum.
 
-<!--
-**esratmaca/esratmaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 İletişim :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esra-atmaca-041b1b304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esraaatmaca034@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Kullandığım Teknolojiler :
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=esratmaca&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
